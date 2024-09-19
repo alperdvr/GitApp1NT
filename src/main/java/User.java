@@ -4,6 +4,6 @@ public class User {
         System.out.println("versiyon 3");
         //remoteda degisiklik 2
         //diger arkadasin degisikligi
-        //uss
+
     }
 }
